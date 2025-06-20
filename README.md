@@ -7,7 +7,7 @@
 > npm install
 > ```
 >
-> Las dependencias ya están configuradas en `package.json` y `package-lock.json`, por lo que **no es necesario (ni recomendable) subir la carpeta `node_modules/` al repositorio**. Esta carpeta está excluida automáticamente mediante `.gitignore` por buenas prácticas del ecosistema Node.js/Vite.
+> Las dependencias ya están configuradas en `package.json` y `package-lock.json`, por lo que **no es necesario subir la carpeta `node_modules/` al repositorio**. Esta carpeta está excluida automáticamente mediante `.gitignore` por buenas prácticas del ecosistema Node.js/Vite.
 
 ## 🕑 Duración: 2 horas  
 ## 👥 Modalidad: Grupal (2-3 estudiantes por grupo)  
