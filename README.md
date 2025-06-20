@@ -1,6 +1,12 @@
 
 # 💻 Hackathon: Ahorrista Web App
 
+> ⚠️ **Nota:** Antes de ejecutar el proyecto, asegúrate de instalar las dependencias en local con el siguiente comando:
+>
+> ```bash
+> npm install
+> ```
+
 ## 🕑 Duración: 2 horas  
 ## 👥 Modalidad: Grupal (2-3 estudiantes por grupo)  
 ## 🧪 Tema: Desarrollo frontend en React + TypeScript
