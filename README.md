@@ -1,11 +1,13 @@
 
 # 💻 Hackathon: Ahorrista Web App
 
-> ⚠️ **Nota:** Antes de ejecutar el proyecto, asegúrate de instalar las dependencias en local con el siguiente comando:
+> ⚠️ **Nota:** Este proyecto fue creado con [Vite](https://vitejs.dev/). Antes de ejecutarlo por primera vez, asegúrate de instalar las dependencias locales con:
 >
 > ```bash
 > npm install
 > ```
+>
+> Las dependencias ya están configuradas en `package.json` y `package-lock.json`, por lo que **no es necesario (ni recomendable) subir la carpeta `node_modules/` al repositorio**. Esta carpeta está excluida automáticamente mediante `.gitignore` por buenas prácticas del ecosistema Node.js/Vite.
 
 ## 🕑 Duración: 2 horas  
 ## 👥 Modalidad: Grupal (2-3 estudiantes por grupo)  
